@@ -1,123 +1,60 @@
----
-layout: default
----
+## QUIENES SOMOS--------------------------------------------------
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+.exe | EMPOWERING DIGITAL FUTURES
+EXECUTE, INNOVATE, EMPOWER
 
-[Link to another page](./another-page.html).
+We are a tech agency working with ong, states, cooperatives and companies – executing insightful knowledge, production strategy, creating unique paths and experiences that bring positive change and digital rights value to the future.
 
-There should be whitespace between paragraphs.
+Somos un estudio de tecnologia que busca ejecutar, innovar y emponderar para futuros digitales integradores con foco en la innovación, diversidad, comunicación, capacitación y estrategias de desarrollo para proyectos políticos, defensa de derechos y de impacto social.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Somos un estudio de tecnologia con foco en la innovación, comunicación, capacitación y estrategias de desarrollo para proyectos políticos y de impacto social en pos de la defensa de derechos.
 
-# Header 1
+## QUE HACEMOS-----------------------------------------------------
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Dictamos capacitaciones, ofrecemos asesorias e investigaciones reuniendo especialistas en diversas tecnollogías digitales y experiencia en proyectos colectivos.
 
-## Header 2
+## Servicios----------------------------------------
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+* Asesorías: Encuentros para asesorarte sobre temas puntuales. (1 hora o más)
 
-### Header 3
+* Charlas y Capacitaciones: Exposiciones, Talleres cortos o programas completos de capacitación. (1/3/5 encuentros, no más que eso)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* Investigaciones: Realizamos análisis y documentación sobre temas de tecnología desde una perspectiva critica y de producción e implementación. (1 call de venta + research del tema)
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Servicios descripción completa
+
+
+
+Advisor/Consultancy/Mentorship: Ayudamos a implementar una estrategia y un análisis personalizados para organizaciones, productos, procesos o trayectorias profesionales, teniendo en cuenta las necesidades, posibilidades, aspectos técnicos, calidad, seguridad, metodologias y las industrias e impacto social de tu proyecto.
+
+- Talks & Workshops: Charlas y talleres personalizados que incluyen:
+
+- Infrastructure (Server management/Network/Security)
+
+- Product / Project Management
+
+- Digital Gap & Inclusion
+
+- Digital Transformation & Methodologies
+
+- Cybersecurity (Thread model assessment)
+
+- Arts and Technology
+
+- Free Software & Hardware
+
+- Tech Trends (Web3, IA, NFT, Metaverse, Energy transition, etc)
+
+- Digital heritage???
+
+### Ask if you have another topic
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Researchs:
 
-```
-The final element.
+Digital Product for digital RightsApoyo y asesoria sobre los derechos digitales y el impacto social en su estrategia de producto o plataformas. Ayudo a las organizaciones a comprender y superar la brecha digital, entendiendo objetivos, necesidades y cambios que pueden ser posibles en las TIC, así como analisis de software implementado en organizaciones, estados, empresas.
+
+Digital process improvement and acquirementTe ayudamos a incorporar la digitalización en tu empresa, enfocándonos en la mejora y optimización de los equipos y documentaciones, considerando metodologías ágiles, kaizen y algunos aspectos de la norma ISO 9001, así como automatizaciones posibles.
 ```
