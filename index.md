@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## QUIENES SOMOS--------------------------------------------------
 
 .exe | EMPOWERING DIGITAL FUTURES
